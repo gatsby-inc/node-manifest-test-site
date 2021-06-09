@@ -9,7 +9,10 @@
   "author": "Tyler Barnes <tyler@gatsbyjs.com>",
   "license": "ISC",
   "dependencies": {
-    "gatsby": "3.5.0-alpha-node-manifest.69"
+    "gatsby": "3.7.0",
+    "gatsby-cli": "3.7.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   },
   "devDependencies": {
     "fs-extra": "^10.0.0",
